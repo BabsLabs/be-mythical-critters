@@ -20,4 +20,4 @@ class Medusa {
 
 }
 
-module.exports= Medusa;
+module.exports = Medusa;
